@@ -1,4 +1,4 @@
-# this_last_coin_ticker
+# coin_ticker
 
 A new Flutter project.
 
